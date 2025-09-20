@@ -1,23 +1,35 @@
 {
-  "name": "mvc-crud-product-supplier_part2",
+  "name": "5-part-2-lesson06",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Node.js Authentication System with Express, MongoDB, and EJS - Part 2 Learning Project",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngoc-gif/node-mvc-crud-product-supplier_part2.git"
+    "url": "git+https://github.com/Bichvi/5_Part-2.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "authentication",
+    "session",
+    "ejs",
+    "bootstrap",
+    "mvc",
+    "learning"
+  ],
+  "author": "Bichvi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ngoc-gif/node-mvc-crud-product-supplier_part2/issues"
+    "url": "https://github.com/Bichvi/5_Part-2/issues"
   },
-  "homepage": "https://github.com/ngoc-gif/node-mvc-crud-product-supplier_part2#readme",
+  "homepage": "https://github.com/Bichvi/5_Part-2#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "bootstrap": "^5.3.8",
